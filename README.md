@@ -1,0 +1,2 @@
+# RADAR---A-Resilient-Anomaly-Detection-and-Attack-Radius-Inference-Framework-for-RPL-Based-Network.
+The primary objective is to design, implement and evaluate an AI-based intrusion detection and mitigation system for RPL-based IOT networks. The project does not aim to modify the core RPL network protocol. Instead it proposes a complementary approach to traditional classification based mechanisms by introducing intent inference based models.
